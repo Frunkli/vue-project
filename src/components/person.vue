@@ -19,6 +19,7 @@ function showTel(): void {
 }
 function changeName(): void {
   name = "慢慢";
+  // 无法更新
 }
 </script>
 

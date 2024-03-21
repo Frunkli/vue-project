@@ -10,7 +10,7 @@
     </div>
 </template>
 <!-- 
-    reactive 响应式对象
+    reactive 响应式对象 （只能定义对象类型的响应式数据）
  -->
 <script setup lang="ts" name="Person">
     import { reactive } from 'vue'; 

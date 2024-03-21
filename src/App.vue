@@ -4,14 +4,9 @@
   </div>
 </template>
 
-<script lang="ts">
+<script lang="ts" setup name="App">
 import Person from './components/person.vue';
-    export default {
-        name: 'App',
-        components: {
-            Person
-        }
-    }
+
 </script>
 
 
